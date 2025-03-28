@@ -34,7 +34,6 @@ const getOwnerEmailTemplate = (fullName, email, contactNumber, companyName, mess
       
       <!-- Header Section -->
       <div style="text-align: center; padding-bottom: 20px; border-bottom: 2px solid #007bff;">
-        <img src="https://via.placeholder.com/150" alt="Company Logo" style="width: 100px;">
         <h2 style="color: #333;">📩 New Contact Form Submission</h2>
       </div>
 
@@ -61,7 +60,6 @@ const getUserEmailTemplate = (fullName, message) => `
       
       <!-- Header Section -->
       <div style="text-align: center; padding-bottom: 20px; border-bottom: 2px solid #28a745;">
-        <img src="./logo.png" alt="Company Logo" style="width: 100px;">
         <h2 style="color: #007bff;">✨ Thank You for Contacting Us!</h2>
       </div>
 
