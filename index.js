@@ -82,7 +82,7 @@ const getUserEmailTemplate = (fullName, message) => `
 
 // Root route
 app.get("/", (req, res) => {
-    res.send("Welcome to the Jk-digital marketing is Liver!!✅");
+    res.send("Welcome to the Digitok marketing is Live!!✅");
   });
 // Email sending route
 app.post("/send-email", async (req, res) => {
